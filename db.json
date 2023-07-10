@@ -2,9 +2,20 @@
     "users": [
         {
             "id": 1,
-            "name": "json-server",
-            "total_score": 8
+            "name": "Ajay",
+            "total_score": 10
+        },
+        {
+            "id": 2,
+            "name": "Arun",
+            "total_score": 10
+        },
+        {
+            "id": 3,
+            "name": "Sithin",
+            "total_score": 9
         }
+
     ],
     "comments": [
         {
